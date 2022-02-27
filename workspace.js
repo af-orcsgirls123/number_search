@@ -7,3 +7,5 @@ function updateFacts(status, type, content) {
      setText("textarea", content);
 }
 onEvent("button1","click", getNumberFact);
+
+blah blah blah
